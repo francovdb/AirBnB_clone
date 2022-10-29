@@ -34,7 +34,6 @@ class BaseModel:
     def __str__(self):
         """
         Returns the string representation of BaseModel object.
-        [<class name>] (<self.id>) <self.__dict__>
         """
         return "[{}] ({}) {}".format(type(self).__name__, self.id,
                                      self.__dict__)
