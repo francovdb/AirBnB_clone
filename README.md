@@ -1,6 +1,6 @@
 AirBnB_clone Group project
 
-# CONCEPTS LEARNT
+## CONCEPTS LEARNT
 
     How to create a Python package
     How to create a command interpreter in Python using the cmd module
@@ -13,7 +13,7 @@ AirBnB_clone Group project
     What is **kwargs and how to use it
     How to handle named arguments in a function
 
-#Introduction
+### Introduction
 
 This project is the first part ongoing Airbnb Clone.
 
