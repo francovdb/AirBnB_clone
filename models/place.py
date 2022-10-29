@@ -5,7 +5,7 @@ from models.base_model import BaseModel
 
 class Place(BaseModel):
     """
-    Place class inherits from BaseModel
+    Place class that intherits from BaseModel
 
     """
     city_id = ""
